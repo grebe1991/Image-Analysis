@@ -1,0 +1,20 @@
+body {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    background-color: #fff;
+    color: #1B1B1B;
+    margin: 0 50px;
+}
+td {
+    padding: 5px 20px;
+    vertical-align: top;
+}
+td:last-child {
+    text-align: center;
+}
+#content p {
+    text-align: center;
+    font-size: 1.125em;
+}
+#content table+p {
+    text-align: left;
+}
